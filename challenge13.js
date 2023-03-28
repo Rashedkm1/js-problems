@@ -52,3 +52,4 @@ function findMaxNumber(arr){
 let arr = [5, 10, 'hello', 3, null, 8, 1, undefined, 6];
 let result = findMaxNumber(arr);
 console.log(result);
+
